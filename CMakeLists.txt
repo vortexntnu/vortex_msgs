@@ -25,6 +25,14 @@ add_message_files(
   CameraObjectInfo.msg
 )
 
+## Generate services in the 'srv' folder
+add_service_files(
+   FILES
+    ControlMode.srv
+#   Service1.srv
+#   Service2.srv
+)
+
 add_action_files(
   FILES
   MoveRelative.action
