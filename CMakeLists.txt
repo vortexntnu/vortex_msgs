@@ -36,7 +36,9 @@ add_service_files(
 add_action_files(
   FILES
   MoveRelative.action
-  )
+  LosPathFollowing.action
+)
+
 generate_messages(
   DEPENDENCIES
   geometry_msgs

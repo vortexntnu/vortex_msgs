@@ -1,0 +1,11 @@
+#goal definition
+geometry_msgs/Point next_waypoint
+geometry_msgs/Point prev_waypoint
+geometry_msgs/Twist forward_speed
+float32 sphereOfAcceptance
+---
+#result definition
+bool terminalSector
+---
+#feedback
+float32 distanceToGoal
