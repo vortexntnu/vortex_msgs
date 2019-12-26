@@ -29,7 +29,7 @@ add_message_files(
 add_service_files(
    FILES
     ControlMode.srv
-#   Service1.srv
+    SetBatteryLevel.srv
 #   Service2.srv
 )
 
