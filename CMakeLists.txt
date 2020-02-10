@@ -29,6 +29,7 @@ add_message_files(
 add_service_files(
    FILES
     ControlMode.srv
+    LandmarkPose.srv
     SetBatteryLevel.srv
 #   Service2.srv
 )
