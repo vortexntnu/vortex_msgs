@@ -29,6 +29,7 @@ add_message_files(
 add_service_files(
    FILES
     ControlMode.srv
+    LandmarkPose.srv
     SetBatteryLevel.srv
 #   Service2.srv
 )
@@ -37,6 +38,7 @@ add_action_files(
   FILES
   MoveRelative.action
   LosPathFollowing.action
+  Move.action
 )
 
 generate_messages(
