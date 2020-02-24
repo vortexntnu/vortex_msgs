@@ -10,3 +10,7 @@ int16 frame_height
 
 #range [0 , 1]
 float64 confidence
+float64 distance_to_pole
+
+#Poles are in the egdes of the image
+bool poles_leaving_image
