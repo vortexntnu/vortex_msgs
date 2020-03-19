@@ -31,6 +31,7 @@ add_service_files(
     ControlMode.srv
     LandmarkPose.srv
     SetBatteryLevel.srv
+    LaunchTorpedo.srv
 #   Service2.srv
 )
 
