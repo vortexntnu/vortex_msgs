@@ -2,10 +2,6 @@
 # the controller system needs to function properly. All of these
 # values should be contained in this message.
 
-# Note: All the message types have been standardized for the physical
-# sizes and their derivatives. This is to prevent problems in future
-# expansion
-
 float64 u
 float64 u_d
 
