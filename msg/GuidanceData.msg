@@ -21,6 +21,3 @@ float64 z_d
 float64 v
 
 float64 t
-
-# DP, Autopilot, 
-string controller_type
