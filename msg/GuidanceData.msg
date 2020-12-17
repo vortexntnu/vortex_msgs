@@ -25,3 +25,5 @@ float64 z_d
 float64 v
 
 float64 t
+
+string controller_type
