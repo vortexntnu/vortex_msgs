@@ -16,6 +16,7 @@ add_message_files(
   LightInput.msg
   PropulsionCommand.msg
   EulerOrientations.msg
+  GuidanceData.msg
   Debug.msg
   Pwm.msg
   RovState.msg
