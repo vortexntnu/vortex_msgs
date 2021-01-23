@@ -24,6 +24,7 @@ add_message_files(
   Manipulator.msg
   CameraFeedSelection.msg
   CameraObjectInfo.msg
+  ObjectPosition.msg
 )
 
 ## Generate services in the 'srv' folder
