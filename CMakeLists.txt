@@ -35,6 +35,7 @@ add_service_files(
     SetBatteryLevel.srv
     LaunchTorpedo.srv
     ThrusterArming.srv
+    ThrustersWrite.srv
 #   Service2.srv
 )
 
