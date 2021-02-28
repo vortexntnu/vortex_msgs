@@ -34,6 +34,7 @@ add_service_files(
     LandmarkPose.srv
     SetBatteryLevel.srv
     LaunchTorpedo.srv
+    ThrusterArming.srv
 #   Service2.srv
 )
 
