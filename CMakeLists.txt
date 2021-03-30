@@ -37,6 +37,7 @@ add_service_files(
     ThrusterArming.srv
     ThrustersWrite.srv
     SetPidGains.srv
+    SetVelocity.srv
 #   Service2.srv
 )
 
