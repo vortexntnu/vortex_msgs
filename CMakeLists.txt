@@ -36,6 +36,8 @@ add_service_files(
     LaunchTorpedo.srv
     ThrusterArming.srv
     ThrustersWrite.srv
+    SetPidGains.srv
+    SetVelocity.srv
 #   Service2.srv
 )
 
