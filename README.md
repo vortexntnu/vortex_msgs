@@ -1,6 +1,9 @@
 # vortex_msgs
 
 
+
+# DEPRECATION NOTICE: THIS REPO WILL NOT BE UPDATED, AS IT HAS BEEN MOVED INTO VORTEX-AUV. ONCE VORTEX-AUV IS STABLE, THIS REPO WILL BE DELETED
+
 [![Build Status](http://build.vortexntnu.no/job/vortex_msgs/badge/icon)](http://build.vortexntnu.no/job/vortex_msgs/)
 
 This ROS package contains all custom ROS message types used in all workspaces
